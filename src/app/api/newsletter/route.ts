@@ -13,6 +13,15 @@ export async function POST(request: NextRequest) {
       );
     }
 
+    // Check if Supabase is configured
+    if (!process.env.SUPABASE_URL || !process.env.SUPABASE_ANON_KEY) {
+      console.error('Supabase environment variables not configured');
+      return NextResponse.json(
+        { error: 'Newsletter service not configured. Please try again later.' },
+        { status: 500 }
+      );
+    }
+
     // Check if email already exists
     const { data: existingSignup, error: checkError } = await supabase
       .from(NEWSLETTER_TABLE)
@@ -71,6 +80,14 @@ export async function POST(request: NextRequest) {
 
 export async function GET() {
   try {
+    // Check if Supabase is configured
+    if (!process.env.SUPABASE_URL || !process.env.SUPABASE_ANON_KEY) {
+      console.error('Supabase environment variables not configured');
+      return NextResponse.json({
+        count: 0,
+        signups: []
+      }, { status: 500 });
+    }
     const { data: signups, error } = await supabase
       .from(NEWSLETTER_TABLE)
       .select('*')

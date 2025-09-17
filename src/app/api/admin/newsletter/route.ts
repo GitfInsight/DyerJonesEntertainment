@@ -9,6 +9,16 @@ export async function GET(request: NextRequest) {
     return createUnauthorizedResponse();
   }
 
+  // Check if Supabase is configured
+  if (!process.env.SUPABASE_URL || !process.env.SUPABASE_ANON_KEY) {
+    console.error('Supabase environment variables not configured');
+    return NextResponse.json({
+      error: 'Database not configured',
+      count: 0,
+      signups: []
+    }, { status: 500 });
+  }
+
   try {
     const { data: signups, error } = await supabase
       .from(NEWSLETTER_TABLE)

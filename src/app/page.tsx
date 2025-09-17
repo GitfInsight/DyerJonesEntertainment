@@ -33,7 +33,7 @@ export default function HomePage() {
               Dyer-Jones Entertainment
             </h1>
             <p className="text-xl md:text-2xl max-w-3xl font-bold mx-auto leading-relaxed text-gray-200">
-              Bringing World-Class Talent to Houston's Doorstep
+              Bringing World-Class Talent to Houston&rsquo;s Doorstep
             </p>
           </div>
           <div className="space-y-4 md:space-y-0 md:space-x-4 md:flex md:justify-center">
@@ -63,7 +63,7 @@ export default function HomePage() {
                 From Intimate to Grand
               </h2>
               <p className="text-lg text-gray-600 leading-relaxed">
-                Dyer-Jones Entertainment connects Houston's community with world-class artists through curated live performances. From intimate home concerts to corporate galas, we bring exceptional musical experiences directly to you—making world-class music accessible, personal, and unforgettable.
+                Dyer-Jones Entertainment connects Houston&rsquo;s community with world-class artists through curated live performances. From intimate home concerts to corporate galas, we bring exceptional musical experiences directly to you&mdash;making world-class music accessible, personal, and unforgettable.
               </p>
               <Link
                 href="/connect"
@@ -133,7 +133,7 @@ export default function HomePage() {
             Our Unique Value
           </h2>
           <p className="text-xl text-gray-600 leading-relaxed mb-8">
-            We connect Houston's vibrant community with world-class artists—from opera singers and instrumentalists to dancers and theatrical performers—curating unforgettable experiences that celebrate the power of live performance.
+            We connect Houston&rsquo;s vibrant community with world-class artists&mdash;from opera singers and instrumentalists to dancers and theatrical performers&mdash;curating unforgettable experiences that celebrate the power of live performance.
           </p>
           <Link
             href="/about"
@@ -151,7 +151,7 @@ export default function HomePage() {
             Ready to Bring World-Class Music to Your Event?
           </h2>
           <p className="text-xl mb-8 leading-relaxed">
-            Whether you're seeking a one-of-a-kind recital in your home, a special performance at your corporate event, or a dynamic concert series for your community, let's create something unforgettable together.
+            Whether you&rsquo;re seeking a one-of-a-kind recital in your home, a special performance at your corporate event, or a dynamic concert series for your community, let&rsquo;s create something unforgettable together.
           </p>
           <div className="space-y-4 sm:space-y-0 sm:space-x-4 sm:flex sm:justify-center">
             <Link

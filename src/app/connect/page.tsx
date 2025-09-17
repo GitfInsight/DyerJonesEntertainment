@@ -42,7 +42,7 @@ export default function ConnectPage() {
 
       if (response.ok) {
         setSubmitStatus('success');
-        setSubmitMessage('Thank you for your inquiry! We\'ll be in touch within 24 hours to discuss your event.');
+        setSubmitMessage('Thank you for your inquiry! We will be in touch within 24 hours to discuss your event.');
         setContactForm({
           name: '',
           email: '',
@@ -69,10 +69,10 @@ export default function ConnectPage() {
       <section className="py-20 bg-gray-50">
         <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-5xl font-playfair font-bold text-gray-900 mb-6">
-            Let's Plan Your Event
+            Let&rsquo;s Plan Your Event
           </h1>
           <p className="text-xl text-gray-600 leading-relaxed">
-            Ready to book or brainstorm? Let's talk about bringing world-class music to your event.
+            Ready to book or brainstorm? Let&rsquo;s talk about bringing world-class music to your event.
           </p>
         </div>
       </section>
@@ -219,7 +219,7 @@ export default function ConnectPage() {
             Prefer to Call or Email?
           </h2>
           <p className="text-lg text-gray-600 mb-8">
-            We'd love to hear from you directly to discuss your vision and answer any questions.
+            We&rsquo;d love to hear from you directly to discuss your vision and answer any questions.
           </p>
 
           <div className="space-y-4 sm:space-y-0 sm:space-x-4 sm:flex sm:justify-center">

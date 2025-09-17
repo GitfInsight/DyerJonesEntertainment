@@ -1,7 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { Resend } from 'resend';
 
-const resend = new Resend(process.env.RESEND_API_KEY);
+// Initialize Resend only if API key is available
+const resend = process.env.RESEND_API_KEY ? new Resend(process.env.RESEND_API_KEY) : null;
 
 export async function POST(request: NextRequest) {
   try {
@@ -19,6 +20,15 @@ export async function POST(request: NextRequest) {
       return NextResponse.json(
         { error: 'Please provide a valid email address' },
         { status: 400 }
+      );
+    }
+
+    // Check if Resend is configured
+    if (!resend) {
+      console.error('Resend API key not configured');
+      return NextResponse.json(
+        { error: 'Email service not configured. Please contact us directly at sarahdyermezzo@gmail.com.' },
+        { status: 500 }
       );
     }
 
@@ -48,7 +58,7 @@ This inquiry was submitted through the Dyer-Jones Entertainment website contact 
     console.log('Email sent successfully:', data);
 
     return NextResponse.json(
-      { message: 'Thank you for your inquiry! We\'ll be in touch within 24 hours.' },
+      { message: 'Thank you for your inquiry! We will be in touch within 24 hours.' },
       { status: 200 }
     );
 

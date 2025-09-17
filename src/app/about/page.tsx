@@ -11,7 +11,7 @@ export default function AboutPage() {
             About Dyer-Jones Entertainment
           </h1>
           <p className="text-xl text-gray-600 leading-relaxed">
-            Bringing world-class talent to Houston's doorstep through curated, intimate, and unforgettable musical experiences.
+            Bringing world-class talent to Houston&rsquo;s doorstep through curated, intimate, and unforgettable musical experiences.
           </p>
         </div>
       </section>
@@ -25,7 +25,7 @@ export default function AboutPage() {
                 About Us
               </h2>
               <p className="text-lg text-gray-600 leading-relaxed">
-                Dyer-Jones Entertainment was born from a passion for sharing extraordinary music in the most meaningful and intimate ways. Founded by internationally acclaimed classical singer Sarah Dyer-Jones, our mission is to connect Houston's vibrant community with world-class artists through curated live performances.
+                Dyer-Jones Entertainment was born from a passion for sharing extraordinary music in the most meaningful and intimate ways. Founded by internationally acclaimed classical singer Sarah Dyer-Jones, our mission is to connect Houston&rsquo;s vibrant community with world-class artists through curated live performances.
               </p>
               <p className="text-lg text-gray-600 leading-relaxed">
                 We coordinate everything from solo singers and intimate chamber groups to full orchestras and complete party coordination. Whether you need a string quartet for your wedding, an opera singer for a corporate gala, a jazz ensemble for your anniversary, or full event planning with musical entertainment, we handle every detail.
@@ -67,7 +67,7 @@ export default function AboutPage() {
                 </div>
                 <div>
                   <h3 className="text-xl font-semibold text-gray-900 mb-2">Personal connection</h3>
-                  <p className="text-lg text-gray-600">Music is personal, and so are we. You'll feel it from the first note.</p>
+                  <p className="text-lg text-gray-600">Music is personal, and so are we. You&rsquo;ll feel it from the first note.</p>
                 </div>
               </div>
             </div>
@@ -151,10 +151,10 @@ export default function AboutPage() {
       <section className="py-16">
         <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-4xl font-playfair font-bold text-gray-900 mb-8">
-            Let's Bring Your Event to Life
+            Let&rsquo;s Bring Your Event to Life
           </h2>
           <p className="text-xl text-gray-600 leading-relaxed mb-8">
-            Whether you're looking for elegance, energy, or emotional resonance, Dyer-Jones Entertainment is here to deliver unforgettable performances, wherever you are in Houston.
+            Whether you&rsquo;re looking for elegance, energy, or emotional resonance, Dyer-Jones Entertainment is here to deliver unforgettable performances, wherever you are in Houston.
           </p>
           <Link
             href="/connect"

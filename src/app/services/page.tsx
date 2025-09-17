@@ -10,7 +10,7 @@ export default function ServicesPage() {
             Our Packages
           </h1>
           <p className="text-xl text-gray-600 leading-relaxed mb-8">
-            Here's how you can bring exceptional live performance into your space, your event, or your community.
+            Here&rsquo;s how you can bring exceptional live performance into your space, your event, or your community.
           </p>
 
           {/* Quick Navigation */}
@@ -120,7 +120,7 @@ export default function ServicesPage() {
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
               <div className="space-y-6">
                 <p className="text-lg text-gray-600 leading-relaxed">
-                  Let live performance inspire your team. Whether you're hosting a retreat, celebrating a company achievement, or just need a break in the day—our performances are tailored to the moment.
+                  Let live performance inspire your team. Whether you&rsquo;re hosting a retreat, celebrating a company achievement, or just need a break in the day&mdash;our performances are tailored to the moment.
                 </p>
 
                 <div>
@@ -221,17 +221,17 @@ export default function ServicesPage() {
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
               <div className="space-y-6">
                 <p className="text-lg text-gray-600 leading-relaxed">
-                  Whether it's a birthday, a promotion, a recovery milestone, or a much-needed dose of joy—The Celebration Gram brings live, heartfelt music directly to your loved one's side.
+                  Whether it&rsquo;s a birthday, a promotion, a recovery milestone, or a much-needed dose of joy&mdash;The Celebration Gram brings live, heartfelt music directly to your loved one&rsquo;s side.
                 </p>
                 <p className="text-lg text-gray-600 leading-relaxed">
                   From glamorous restaurant dinners to quiet hospital rooms, this one-of-a-kind pop-up performance is tailored to the moment: celebratory, soothing, or uplifting.
                 </p>
 
                 <div>
-                  <h3 className="text-xl font-semibold text-gray-900 mb-3">🌟 What's Included:</h3>
+                  <h3 className="text-xl font-semibold text-gray-900 mb-3">🌟 What&rsquo;s Included:</h3>
                   <ul className="space-y-2 text-gray-600">
-                    <li className="flex items-start"><span className="mr-3">🎂</span>A show-stopping operatic "Happy Birthday" (or instrumental version)</li>
-                    <li className="flex items-start"><span className="mr-3">🎶</span>A mini-set of 1–3 songs chosen to match the recipient's favorite style</li>
+                    <li className="flex items-start"><span className="mr-3">🎂</span>A show-stopping operatic &ldquo;Happy Birthday&rdquo; (or instrumental version)</li>
+                    <li className="flex items-start"><span className="mr-3">🎶</span>A mini-set of 1&ndash;3 songs chosen to match the recipient&rsquo;s favorite style</li>
                     <li className="flex items-start"><span className="mr-3">🎻</span>Live instrumental accompaniment (pianist, guitarist, violinist, or small ensemble)</li>
                     <li className="flex items-start"><span className="mr-3">🎤</span>Custom spoken dedication to make it personal and meaningful</li>
                     <li className="flex items-start"><span className="mr-3">🎩</span>Artists arrive dressed for the vibe and can blend in for a surprise entrance</li>
@@ -243,7 +243,7 @@ export default function ServicesPage() {
                 <div className="bg-white rounded-lg p-6 shadow-sm">
                   <h4 className="text-lg font-semibold text-gray-900 mb-3">💡 Optional Add-Ons:</h4>
                   <ul className="space-y-2 text-gray-600">
-                    <li className="flex items-center"><span className="mr-3">🎻</span>Portable "flash mob" mini-ensemble (2–4 players)</li>
+                    <li className="flex items-center"><span className="mr-3">🎻</span>Portable &ldquo;flash mob&rdquo; mini-ensemble (2&ndash;4 players)</li>
                     <li className="flex items-center"><span className="mr-3">🎥</span>Video recording or livestreaming</li>
                     <li className="flex items-center"><span className="mr-3">📜</span>Framed keepsake with printed lyrics, music, or dedication</li>
                   </ul>
@@ -256,7 +256,7 @@ export default function ServicesPage() {
                     <li className="flex items-center"><span className="mr-3">🏥</span>Hospital visits for comfort and joy</li>
                     <li className="flex items-center"><span className="mr-3">💍</span>Engagements and anniversaries</li>
                     <li className="flex items-center"><span className="mr-3">🎓</span>Retirement celebrations</li>
-                    <li className="flex items-center"><span className="mr-3">💝</span>"Just Because" moments to uplift someone</li>
+                    <li className="flex items-center"><span className="mr-3">💝</span>&ldquo;Just Because&rdquo; moments to uplift someone</li>
                   </ul>
                 </div>
               </div>
@@ -284,10 +284,10 @@ export default function ServicesPage() {
                   Indulge in an unforgettable evening where the worlds of music and wine come together in harmony. This curated experience pairs a selection of fine wines with live musical performances—each glass accompanied by a thoughtfully chosen piece that enhances its flavor, mood, and origin.
                 </p>
                 <p className="text-lg text-gray-600 leading-relaxed">
-                  As the wine shifts, so does the music. From lush romantic arias to spirited chamber music, each piece is chosen to mirror the complexity and nuance of what's in your glass.
+                  As the wine shifts, so does the music. From lush romantic arias to spirited chamber music, each piece is chosen to mirror the complexity and nuance of what&rsquo;s in your glass.
                 </p>
                 <p className="text-lg text-gray-600 leading-relaxed">
-                  We collaborate with sommeliers, chefs, and hosts to create a cohesive, elegant atmosphere where music becomes an essential part of the evening's journey.
+                  We collaborate with sommeliers, chefs, and hosts to create a cohesive, elegant atmosphere where music becomes an essential part of the evening&rsquo;s journey.
                 </p>
               </div>
 
@@ -304,7 +304,7 @@ export default function ServicesPage() {
 
                 <div className="bg-white rounded-lg p-6 shadow-sm">
                   <p className="text-gray-600 leading-relaxed">
-                    <strong>Scale:</strong> Whether it's an intimate evening for eight or a gala for fifty, The Music & Wine Pairing Experience transforms your event into a multisensory celebration of culture, flavor, and connection.
+                    <strong>Scale:</strong> Whether it&rsquo;s an intimate evening for eight or a gala for fifty, The Music & Wine Pairing Experience transforms your event into a multisensory celebration of culture, flavor, and connection.
                   </p>
                 </div>
               </div>
@@ -329,22 +329,22 @@ export default function ServicesPage() {
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
               <div className="space-y-6">
                 <p className="text-lg text-gray-600 leading-relaxed">
-                  Have a beautiful piano that rarely gets played? Let's change that. Dyer-Jones Entertainment offers a high-end twist on the joy of singing together—with the help of a classically trained pianist and world-class vocalists by your side.
+                  Have a beautiful piano that rarely gets played? Let&rsquo;s change that. Dyer-Jones Entertainment offers a high-end twist on the joy of singing together&mdash;with the help of a classically trained pianist and world-class vocalists by your side.
                 </p>
                 <p className="text-lg text-gray-600 leading-relaxed">
-                  Whether you're celebrating a birthday, hosting a family reunion, or just want to create unforgettable memories in your home, Elevated Karaoke is a musical gathering like no other.
+                  Whether you&rsquo;re celebrating a birthday, hosting a family reunion, or just want to create unforgettable memories in your home, Elevated Karaoke is a musical gathering like no other.
                 </p>
                 <p className="text-lg text-gray-600 leading-relaxed">
-                  Think of it as an elegant salon-style evening where everyone is invited to take the stage. No screens, no backing tracks—just the magic of live music and the thrill of sharing it with the people you love.
+                  Think of it as an elegant salon-style evening where everyone is invited to take the stage. No screens, no backing tracks&mdash;just the magic of live music and the thrill of sharing it with the people you love.
                 </p>
               </div>
 
               <div className="space-y-6">
                 <div className="bg-white rounded-lg p-6 shadow-sm">
-                  <h4 className="text-lg font-semibold text-gray-900 mb-3">What's included:</h4>
+                  <h4 className="text-lg font-semibold text-gray-900 mb-3">What&rsquo;s included:</h4>
                   <ul className="space-y-2 text-gray-600">
                     <li className="flex items-start"><span className="mr-3">🎹</span>A professional pianist to accompany you and your guests live</li>
-                    <li className="flex items-start"><span className="mr-3">📚</span>A curated library of songs—classical, Broadway, jazz, pop standards, and more</li>
+                    <li className="flex items-start"><span className="mr-3">📚</span>A curated library of songs&mdash;classical, Broadway, jazz, pop standards, and more</li>
                     <li className="flex items-start"><span className="mr-3">🎤</span>Performances from professional singers to inspire and delight</li>
                     <li className="flex items-start"><span className="mr-3">🏠</span>A warm, supportive atmosphere that invites participation and fun</li>
                   </ul>
@@ -377,10 +377,10 @@ export default function ServicesPage() {
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
               <div className="space-y-6">
                 <p className="text-lg text-gray-600 leading-relaxed">
-                  Bring the full brilliance of live classical performance to your next large-scale corporate event with The Signature Performance—a bespoke musical experience designed to awe, inspire, and elevate.
+                  Bring the full brilliance of live classical performance to your next large-scale corporate event with The Signature Performance&mdash;a bespoke musical experience designed to awe, inspire, and elevate.
                 </p>
                 <p className="text-lg text-gray-600 leading-relaxed">
-                  Whether you're hosting a black-tie gala, a company anniversary, a product launch, holiday party, or an executive summit, Dyer-Jones Entertainment delivers performances that blend sophistication with unforgettable artistry.
+                  Whether you&rsquo;re hosting a black-tie gala, a company anniversary, a product launch, holiday party, or an executive summit, Dyer-Jones Entertainment delivers performances that blend sophistication with unforgettable artistry.
                 </p>
 
                 <div>
@@ -408,10 +408,10 @@ export default function ServicesPage() {
 
                 <div className="bg-white rounded-lg p-6 shadow-sm">
                   <p className="text-gray-600 leading-relaxed">
-                    <strong>Custom Venues:</strong> Let us transform your venue—whether it's a hotel ballroom, a modern atrium, or a rooftop terrace—into a concert hall for the night. Every performance is fully customizable to your vision and event flow.
+                    <strong>Custom Venues:</strong> Let us transform your venue&mdash;whether it&rsquo;s a hotel ballroom, a modern atrium, or a rooftop terrace&mdash;into a concert hall for the night. Every performance is fully customizable to your vision and event flow.
                   </p>
                   <p className="text-gray-600 leading-relaxed mt-4">
-                    <strong>The Promise:</strong> With Dyer-Jones Entertainment, you're not just hiring a musical group—you're commissioning an experience that resonates long after the final bow.
+                    <strong>The Promise:</strong> With Dyer-Jones Entertainment, you&rsquo;re not just hiring a musical group&mdash;you&rsquo;re commissioning an experience that resonates long after the final bow.
                   </p>
                 </div>
               </div>
@@ -438,10 +438,10 @@ export default function ServicesPage() {
                 Have something specific in mind? Want to feature a tango quartet? A baroque ensemble? A solo violinist under the stars?
               </p>
               <p className="text-lg text-gray-600 leading-relaxed">
-                Let's collaborate. Dyer-Jones Entertainment specializes in designing tailor-made musical experiences for private events, festivals, and cultural institutions.
+                Let&rsquo;s collaborate. Dyer-Jones Entertainment specializes in designing tailor-made musical experiences for private events, festivals, and cultural institutions.
               </p>
               <p className="text-lg text-gray-600 leading-relaxed">
-                Music has the power to transform any space—even for just a few minutes—into a place of beauty, connection, and joy. Let us help you create that magic.
+                Music has the power to transform any space&mdash;even for just a few minutes&mdash;into a place of beauty, connection, and joy. Let us help you create that magic.
               </p>
             </div>
           </div>
@@ -452,10 +452,10 @@ export default function ServicesPage() {
       <section className="py-20 bg-gradient-to-br from-gray-900 to-gray-800 text-white">
         <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-4xl font-playfair font-bold mb-6">
-            Let's Bring Your Event to Life
+            Let&rsquo;s Bring Your Event to Life
           </h2>
           <p className="text-xl mb-8 leading-relaxed">
-            Whether you're looking for elegance, energy, or emotional resonance, Dyer-Jones Entertainment is here to deliver unforgettable performances, wherever you are in Houston.
+            Whether you&rsquo;re looking for elegance, energy, or emotional resonance, Dyer-Jones Entertainment is here to deliver unforgettable performances, wherever you are in Houston.
           </p>
           <div className="space-y-4 sm:space-y-0 sm:space-x-4 sm:flex sm:justify-center">
             <Link
