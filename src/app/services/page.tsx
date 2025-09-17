@@ -26,7 +26,7 @@ export default function ServicesPage() {
                 <div className="font-medium">Corporate</div>
               </a>
               <a href="#community" className="bg-purple-50 hover:bg-purple-100 text-purple-700 hover:text-purple-900 px-4 py-3 rounded-xl text-center transition-all duration-200 hover:shadow-md border border-purple-200 hover:border-purple-300">
-                <div className="text-lg mb-1">👵🏼</div>
+                <div className="text-lg mb-1">🧘🏻‍♀️</div>
                 <div className="font-medium">Community</div>
               </a>
               <a href="#celebration-gram" className="bg-yellow-50 hover:bg-yellow-100 text-yellow-700 hover:text-yellow-900 px-4 py-3 rounded-xl text-center transition-all duration-200 hover:shadow-md border border-yellow-200 hover:border-yellow-300">
@@ -162,7 +162,7 @@ export default function ServicesPage() {
           <div className="bg-gradient-to-br from-purple-50 to-pink-50 rounded-2xl p-8 lg:p-12">
             <div className="text-center mb-8">
               <h2 className="text-4xl font-playfair font-bold text-gray-900 mb-4">
-                👵🏼 Community & Wellness Concerts
+                🧘🏻‍♀️ Community & Wellness Concerts
               </h2>
               <p className="text-xl text-gray-700 font-medium">
                 Serving retirement homes, rehab centers, and community groups.

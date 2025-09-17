@@ -259,7 +259,7 @@ export default function ConnectPage() {
             </div>
 
             <div className="bg-white rounded-lg p-6 shadow-sm">
-              <h3 className="text-xl font-semibold text-gray-900 mb-3">👵🏼 Community & Wellness</h3>
+              <h3 className="text-xl font-semibold text-gray-900 mb-3">🧘🏻‍♀️ Community & Wellness</h3>
               <p className="text-gray-600 text-sm mb-4">Retirement homes, rehab centers, uplifting programs</p>
               <p className="text-gray-500 text-xs">One-time or recurring engagements available</p>
             </div>

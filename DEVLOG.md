@@ -42,7 +42,7 @@ Adapted the existing Contempo Studios website to serve the new Dyer-Jones Entert
 Based on dyerjones.md content, implemented these key offerings:
 - **🎤 Private In-Home Concerts**: Intimate performances in clients' homes
 - **🏢 Corporate Experiences**: Business event entertainment and team building
-- **👵🏼 Community & Wellness Concerts**: Retirement homes, healthcare facilities
+- **🧘🏻‍♀️ Community & Wellness Concerts**: Retirement homes, healthcare facilities
 - **🎁 Celebration Grams**: Pop-up surprise performances
 - **🍷 Music & Wine Pairing Experience**: Luxury sensory events
 - **🎹 Elevated Karaoke**: High-end interactive musical experiences

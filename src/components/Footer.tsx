@@ -3,10 +3,11 @@ import Link from 'next/link';
 export default function Footer() {
   return (
     <footer className="bg-gray-900 text-white">
-      <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
+      <div className="mx-auto max-w-7xl px-4 py-4 sm:px-6 lg:px-8">
+        {/* Commented out main content - uncomment when ready to add back
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Logo and Mission */}
-          <div className="md:col-span-2">
+          {/* <div className="md:col-span-2">
             <h3 className="text-2xl font-playfair font-bold mb-4">Dyer-Jones Entertainment</h3>
             <p className="text-gray-300 mb-4 max-w-md">
               An interdisciplinary arts organization focused on creating accessible and live performance art for audiences across Houston.
@@ -14,7 +15,7 @@ export default function Footer() {
           </div>
 
           {/* Quick Links */}
-          <div>
+          {/* <div>
             <h4 className="text-lg font-semibold mb-4">Quick Links</h4>
             <ul className="space-y-2">
               <li>
@@ -32,7 +33,7 @@ export default function Footer() {
                   Media Gallery
                 </Link>
               </li> */}
-              <li>
+              {/* <li>
                 <Link href="/support" className="text-gray-300 hover:text-white transition-colors">
                   Support Us
                 </Link>
@@ -41,7 +42,7 @@ export default function Footer() {
           </div>
 
           {/* Connect */}
-          <div>
+          {/* <div>
             <h4 className="text-lg font-semibold mb-4">Connect</h4>
             <ul className="space-y-2">
               <li>
@@ -55,7 +56,7 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-                <a href="https://www.instagram.com/Dyer-Jones Entertainmentstudios_htx/" className="text-gray-300 hover:text-white transition-colors">
+                <a href="https://www.instagram.com/contempostudios_htx/" className="text-gray-300 hover:text-white transition-colors">
                   Instagram
                 </a>
               </li>
@@ -69,7 +70,11 @@ export default function Footer() {
         </div>
 
         {/* Bottom Bar */}
-        <div className="mt-8 pt-8 border-t border-gray-700 flex flex-col md:flex-row justify-between items-center">
+        {/* <div className="mt-8 pt-8 border-t border-gray-700 flex flex-col md:flex-row justify-between items-center"> */}
+        
+
+        {/* Bottom Bar - Simplified */}
+        <div className="flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm">
             © {new Date().getFullYear()} Dyer-Jones Entertainment. All rights reserved.
           </p>
