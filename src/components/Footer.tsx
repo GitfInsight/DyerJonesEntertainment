@@ -1,4 +1,4 @@
-import Link from 'next/link';
+// import Link from 'next/link'; // Commented out until footer content is restored
 
 export default function Footer() {
   return (
