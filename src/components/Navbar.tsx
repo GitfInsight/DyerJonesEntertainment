@@ -8,10 +8,8 @@ import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
 const navigation = [
   { name: 'Home', href: '/' },
   { name: 'About', href: '/about' },
-  { name: 'Events', href: '/events' },
-  // { name: 'Media', href: '/media' },
-  { name: 'Support', href: '/support' },
-  { name: 'Connect', href: '/connect' },
+  { name: 'Services', href: '/services' },
+  { name: 'Book Event', href: '/connect' },
 ];
 
 export default function Navbar() {

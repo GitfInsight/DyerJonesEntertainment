@@ -21,13 +21,13 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Dyer-Jones Entertainment - Interdisciplinary Arts Organization",
-  description: "Dyer-Jones Entertainment is an interdisciplinary arts organization focused on creating accessible and live performance art in Houston.",
-  keywords: "arts, performance, theater, Houston, interdisciplinary, live performance, non-profit",
+  title: "Dyer-Jones Entertainment - High Quality Live Performances",
+  description: "Dyer-Jones Entertainment is your partner to bring high quality classicly trained musicians directly to you.",
+  keywords: "arts, performance, theater, Houston, live performance, music, opera",
   authors: [{ name: "Dyer-Jones Entertainment" }],
   openGraph: {
     title: "Dyer-Jones Entertainment",
-    description: "Interdisciplinary. Accessible. Live Performances.",
+    description: "Classicly Trained Performers, Modern Entertainment",
     type: "website",
   },
 };
