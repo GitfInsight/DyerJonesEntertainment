@@ -28,7 +28,7 @@ export default function AboutPage() {
                 Dyer-Jones Entertainment was born from a passion for sharing extraordinary music in the most meaningful and intimate ways. Founded by internationally acclaimed classical singer Sarah Dyer-Jones, our mission is to connect Houston&rsquo;s vibrant community with world-class artists through curated live performances.
               </p>
               <p className="text-lg text-gray-600 leading-relaxed">
-                We coordinate everything from solo singers and intimate chamber groups to full orchestras and complete party coordination. Whether you need a string quartet for your wedding, an opera singer for a corporate gala, a jazz ensemble for your anniversary, or full event planning with musical entertainment, we handle every detail.
+                We coordinate everything from solo singers and intimate chamber groups to full orchestras or anything in between. Whether you need a string quartet for your wedding, an opera singer for a corporate gala, a jazz ensemble for your anniversary, or full event planning with musical entertainment, we handle every detail.
               </p>
               <p className="text-lg text-gray-600 leading-relaxed">
                 Our network includes classically trained vocalists, instrumentalists of every type, dancers, theatrical performers, and event coordination specialists. No matter the size or style of your vision, we make world-class music accessible, personal, and unforgettable.
