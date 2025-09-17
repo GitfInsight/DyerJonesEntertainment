@@ -11,7 +11,7 @@ export default function EventsPage() {
     {
       title: "Community Art Night",
       date: "May 25, 2025",
-      description: "An opportunity for the full ConTempo community to come together and share their art, what they've been working on, and maybe learn a thing or two about a new field like crochet or finance",
+      description: "An opportunity for the full Dyer-Jones Entertainment community to come together and share their art, what they've been working on, and maybe learn a thing or two about a new field like crochet or finance",
       image: "/content/fliers/commyartnight.png",
       galleryLink: "/media#community-art-night"
     },
@@ -34,7 +34,7 @@ export default function EventsPage() {
     {
       title: "Music Meets Art",
       date: "March 23, 2025",
-      description: "A special collaboration between ConTempo and Becky Soria, a performance exploring themes of womanhood and loss, attempting to capture the essence of the visual art through music",
+      description: "A special collaboration between Dyer-Jones Entertainment and Becky Soria, a performance exploring themes of womanhood and loss, attempting to capture the essence of the visual art through music",
       image: "/content/fliers/mar2025gallery.png",
       galleryLink: "/media#music-meditations"
     },
@@ -48,7 +48,7 @@ export default function EventsPage() {
       {
         title: "Outdoor Holiday Concert",
         date: "December 21, 2024",
-        description: "A holiday concert featuring a set list of holiday favorites, including traditional carols, jazz standards, and contemporary classics, in addition to caroling along, the audience will be invited to explore the interesting arrangement of percussion instruments.",
+        description: "A holiday concert featuring a set list of holiday favorites, including traditional carols, jazz standards, and Dyer-Jones Entertainmentrary classics, in addition to caroling along, the audience will be invited to explore the interesting arrangement of percussion instruments.",
         image: "/content/fliers/holidayconcert.png",
         galleryLink: "/media#music-meditations"
       },
@@ -143,7 +143,7 @@ export default function EventsPage() {
                 </div>
                 
                 <p className="text-gray-600 leading-relaxed mb-6">
-                  An interdisciplinary performance exploring themes of journey and transformation through movement, music, and visual storytelling. <em>Carretera</em> weaves together contemporary dance, live music, and multimedia elements to create an immersive experience that examines our shared paths through life&apos;s transitions.
+                  An interdisciplinary performance exploring themes of journey and transformation through movement, music, and visual storytelling. <em>Carretera</em> weaves together Dyer-Jones Entertainmentrary dance, live music, and multimedia elements to create an immersive experience that examines our shared paths through life&apos;s transitions.
                   <br></br><br></br>
                   Drinks included in ticket price for those with valid ID.
                 </p>

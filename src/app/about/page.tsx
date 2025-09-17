@@ -7,7 +7,7 @@ export default function AboutPage() {
       <section className="py-20 bg-gray-50">
         <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-5xl font-playfair font-bold text-gray-900 mb-6">
-            About ConTempo Studios
+            About Dyer-Jones Entertainment
           </h1>
           <p className="text-xl text-gray-600 leading-relaxed">
             We are storytellers, dreamers, and boundary-breakers creating art designed to be accessible to all demographics.
@@ -33,7 +33,7 @@ export default function AboutPage() {
                 communities and creatives through performances that are as surprising as they are soulful.
               </p>
               {/* <p className="text-lg text-gray-600 leading-relaxed">
-                ConTempo Studios exists to create interdisciplinary, accessible, and transformative live performance art that challenges conventional boundaries and brings diverse communities together. We believe that art should be a bridge, not a barrier, and that every voice deserves to be heard and celebrated.
+                Dyer-Jones Entertainment exists to create interdisciplinary, accessible, and transformative live performance art that challenges conventional boundaries and brings diverse communities together. We believe that art should be a bridge, not a barrier, and that every voice deserves to be heard and celebrated.
               </p>
               <p className="text-lg text-gray-600 leading-relaxed">
                 Through innovative collaborations between artists of different disciplines, we craft experiences that speak to the human condition while pushing the envelope of what performance art can be. Our commitment to accessibility ensures that financial limitations never prevent someone from experiencing the power of live art.
@@ -41,7 +41,7 @@ export default function AboutPage() {
             </div>
             <div className="relative h-96 bg-gray-200 rounded-lg overflow-hidden">
               <div className="absolute inset-0 flex items-center justify-center text-gray-500">
-                <Image src="/content/eventphotos/groupwithbeckysoria.jpg" alt="ConTempo Partnering with Visual Artist Becky Soria" fill className="object-cover" />
+                <Image src="/content/eventphotos/groupwithbeckysoria.jpg" alt="Dyer-Jones Entertainment Partnering with Visual Artist Becky Soria" fill className="object-cover" />
                 <p className="text-center">
                   Mission Photo<br />
                   <span className="text-sm">Team in Creative Process</span>
@@ -58,7 +58,7 @@ export default function AboutPage() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div className="relative h-96 bg-gray-200 rounded-lg overflow-hidden order-2 lg:order-1">
               <div className="absolute inset-0 flex items-center justify-center text-gray-500">
-                <Image src="/content/eventphotos/musicandmeditations.jpg" alt="ConTempo Studios Logo" fill className="object-cover" />
+                <Image src="/content/eventphotos/musicandmeditations.jpg" alt="Dyer-Jones Entertainment Logo" fill className="object-cover" />
                 <p className="text-center">
                   Vision Photo<br />
                   <span className="text-sm">Performance Moment</span>
@@ -80,7 +80,7 @@ is shared, we aim to create a cultural space where connection, creativity, and j
                 We envision a Houston where interdisciplinary art is not just accepted but celebrated as an essential part of our cultural landscape. Our goal is to become a leading force in the evolution of performance art, inspiring other organizations to embrace bold, inclusive, and accessible approaches to creativity.
               </p>
               <p className="text-lg text-gray-600 leading-relaxed">
-                In the next five years, we aim to establish ConTempo Studios as a cornerstone institution that nurtures emerging artists, presents groundbreaking work, and serves as a model for how art organizations can truly serve their entire community.
+                In the next five years, we aim to establish Dyer-Jones Entertainment as a cornerstone institution that nurtures emerging artists, presents groundbreaking work, and serves as a model for how art organizations can truly serve their entire community.
               </p> */}
             </div>
           </div>
@@ -203,7 +203,7 @@ is shared, we aim to create a cultural space where connection, creativity, and j
           {/* Team Members Section */}
           <div className="mt-16">
             <h2 className="text-4xl font-playfair font-bold text-center text-gray-900 mb-12">
-              The ConTempo Support Team
+              The Dyer-Jones Entertainment Support Team
             </h2>
             <div className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-2 gap-8 max-w-4xl mx-auto">
               <div className="text-center space-y-4">
@@ -259,7 +259,7 @@ is shared, we aim to create a cultural space where connection, creativity, and j
             </div>
           </div>
           <p className="text-lg text-gray-600 leading-relaxed">
-            Every ConTempo Studios production begins with conversation—between artists, between disciplines, and between our work and the community it serves. We believe that the most authentic art emerges from genuine collaboration and deep listening.
+            Every Dyer-Jones Entertainment production begins with conversation—between artists, between disciplines, and between our work and the community it serves. We believe that the most authentic art emerges from genuine collaboration and deep listening.
           </p>
         </div>
       </section> */}

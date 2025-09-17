@@ -43,7 +43,7 @@ export default function AdminLogin() {
       <div className="max-w-md w-full bg-white rounded-lg shadow-md p-8">
         <div className="text-center mb-8">
           <h1 className="text-2xl font-playfair font-bold text-gray-900">
-            ConTempo Studios Admin
+            Dyer-Jones Entertainment Admin
           </h1>
           <p className="text-gray-600 mt-2">Sign in to access admin dashboard</p>
         </div>

@@ -21,12 +21,12 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "ConTempo Studios - Interdisciplinary Arts Organization",
-  description: "ConTempo Studios is an interdisciplinary arts organization focused on creating accessible and live performance art in Houston.",
+  title: "Dyer-Jones Entertainment - Interdisciplinary Arts Organization",
+  description: "Dyer-Jones Entertainment is an interdisciplinary arts organization focused on creating accessible and live performance art in Houston.",
   keywords: "arts, performance, theater, Houston, interdisciplinary, live performance, non-profit",
-  authors: [{ name: "ConTempo Studios" }],
+  authors: [{ name: "Dyer-Jones Entertainment" }],
   openGraph: {
-    title: "ConTempo Studios",
+    title: "Dyer-Jones Entertainment",
     description: "Interdisciplinary. Accessible. Live Performances.",
     type: "website",
   },

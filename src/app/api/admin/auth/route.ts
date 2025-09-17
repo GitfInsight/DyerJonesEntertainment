@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from 'next/server';
 import { SignJWT } from 'jose';
 
 const ADMIN_USERNAME = process.env.ADMIN_USERNAME || 'admin';
-const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || 'contempo123';
+const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || 'Dyer-Jones Entertainment123';
 const JWT_SECRET = process.env.JWT_SECRET || 'your-super-secret-jwt-key-change-this-in-production';
 
 const secret = new TextEncoder().encode(JWT_SECRET);

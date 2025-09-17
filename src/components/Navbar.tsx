@@ -26,13 +26,13 @@ export default function Navbar() {
             <Link href="/" className="flex items-center space-x-3 hover:opacity-80 transition-opacity">
               <Image
                 src="/logos/colorsplash.png"
-                alt="ConTempo Studios Logo" 
+                alt="Dyer-Jones Entertainment Logo" 
                 width={40}
                 height={40}
                 className="h-10 w-auto"
               />
               <span className="text-2xl font-playfair font-bold text-gray-900">
-                ConTempo Studios
+                Dyer-Jones Entertainment
               </span>
             </Link>
           </div>

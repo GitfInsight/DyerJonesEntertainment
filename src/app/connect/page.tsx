@@ -69,9 +69,9 @@ export default function ConnectPage() {
               <div className="space-y-6">
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900 mb-2">General Inquiries</h3>
-                  <p className="text-gray-600 mb-4">contempoartshtx@gmail.com</p>
+                  <p className="text-gray-600 mb-4">Dyer-Jones Entertainmentartshtx@gmail.com</p>
                   <a
-                    href="mailto:contempoartshtx@gmail.com"
+                    href="mailto:Dyer-Jones Entertainmentartshtx@gmail.com"
                     className="inline-block bg-gray-900 text-white px-8 py-4 rounded-md font-semibold hover:bg-gray-800 transition-colors text-lg"
                   >
                     Send Us an Email
@@ -84,7 +84,7 @@ export default function ConnectPage() {
                 <h3 className="text-lg font-semibold text-gray-900 mb-4">Follow Our Journey</h3>
                 <div className="flex space-x-4">
                   <a
-                    href="https://www.instagram.com/contempostudios_htx/"
+                    href="https://www.instagram.com/Dyer-Jones Entertainmentstudios_htx/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="bg-gray-900 text-white p-3 rounded-lg hover:bg-gray-800 transition-colors flex items-center space-x-2"
@@ -106,7 +106,7 @@ export default function ConnectPage() {
                     <span>Facebook</span>
                   </a>
                   <a
-                    href="https://www.youtube.com/@Contempo_Studios"
+                    href="https://www.youtube.com/@Dyer-Jones Entertainment_Studios"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="bg-gray-900 text-white p-3 rounded-lg hover:bg-gray-800 transition-colors flex items-center space-x-2"
@@ -191,7 +191,7 @@ export default function ConnectPage() {
                 Are you a dancer, musician, visual artist, performer, or any other type of artist interested in interdisciplinary collaboration? We&apos;re always looking for passionate artists to join our creative community.
               </p>
               <a
-                href="mailto:contempoartshtx@gmail.com"
+                href="mailto:Dyer-Jones Entertainmentartshtx@gmail.com"
                 className="inline-block bg-gray-900 text-white px-6 py-3 rounded-md font-semibold hover:bg-gray-800 transition-colors"
               >
                 Get in Touch
@@ -201,10 +201,10 @@ export default function ConnectPage() {
             <div className="bg-white rounded-lg p-8 shadow-sm">
               <h3 className="text-xl font-semibold text-gray-900 mb-4">Venues & Partners</h3>
               <p className="text-gray-600 mb-6">
-                Interested in hosting a ConTempo Studios performance or partnering with us on a community event? Let&apos;s explore how we can work together to bring art to new audiences.
+                Interested in hosting a Dyer-Jones Entertainment performance or partnering with us on a community event? Let&apos;s explore how we can work together to bring art to new audiences.
               </p>
               <a
-                href="mailto:contempoartshtx@gmail.com"
+                href="mailto:Dyer-Jones Entertainmentartshtx@gmail.com"
                 className="inline-block bg-gray-900 text-white px-6 py-3 rounded-md font-semibold hover:bg-gray-800 transition-colors"
               >
                 Partner With Us
@@ -224,10 +224,10 @@ export default function ConnectPage() {
           <div className="space-y-8">
             <div>
               <h3 className="text-lg font-semibold text-gray-900 mb-2">
-                How can I volunteer with ConTempo Studios?
+                How can I volunteer with Dyer-Jones Entertainment?
               </h3>
               <p className="text-gray-600">
-                We welcome volunteers for various roles including ushering, technical support, and event assistance. Contact us at contempoartshtx@gmail.com to learn about current opportunities.
+                We welcome volunteers for various roles including ushering, technical support, and event assistance. Contact us at Dyer-Jones Entertainmentartshtx@gmail.com to learn about current opportunities.
               </p>
             </div>
             
@@ -242,10 +242,10 @@ export default function ConnectPage() {
             
             <div>
               <h3 className="text-lg font-semibold text-gray-900 mb-2">
-                Can I request ConTempo Studios for a private event?
+                Can I request Dyer-Jones Entertainment for a private event?
               </h3>
               <p className="text-gray-600">
-                Part of ConTempo&apos;s mission is to create opportunities for artists to perform in a variety of settings. For private events, collaborations, or special performances, please reach out to us with details about your event, timeline, and budget. We&apos;ll work with you to create something unique.
+                Part of Dyer-Jones Entertainment&apos;s mission is to create opportunities for artists to perform in a variety of settings. For private events, collaborations, or special performances, please reach out to us with details about your event, timeline, and budget. We&apos;ll work with you to create something unique.
               </p>
             </div>
             
@@ -254,7 +254,7 @@ export default function ConnectPage() {
                 Are your performances accessible?
               </h3>
               <p className="text-gray-600">
-                Accessibility is core to our mission. Whether you have never seen live art before, or have historically found live shows challenging due to a disability or neurodivergence, ConTempo Studios is dedicated to making our work accessible and enjoyable for everyone. If you have any specific accessibility needs or concerns, please reach out to us and we will do our best to ensure you are properly accommodated.
+                Accessibility is core to our mission. Whether you have never seen live art before, or have historically found live shows challenging due to a disability or neurodivergence, Dyer-Jones Entertainment is dedicated to making our work accessible and enjoyable for everyone. If you have any specific accessibility needs or concerns, please reach out to us and we will do our best to ensure you are properly accommodated.
               </p>
             </div>
           </div>

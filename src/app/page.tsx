@@ -14,10 +14,10 @@ export default function HomePage() {
       <section className="relative h-screen flex items-center justify-center">
         <div className="absolute inset-0 bg-gradient-to-br from-gray-800 to-gray-900">
           <div className="absolute inset-0 bg-black/30">
-            {/* <Image src="/logos/NoTextNoBG.png" alt="ConTempo Studios Splash Art" fill className="object-cover" /> */}
+            {/* <Image src="/logos/NoTextNoBG.png" alt="Dyer-Jones Entertainment Splash Art" fill className="object-cover" /> */}
             <Image 
               src="/logos/blackbg.png" 
-              alt="ConTempo Studios Splash Art" 
+              alt="Dyer-Jones Entertainment Splash Art" 
               fill 
               className="object-cover" 
               priority
@@ -30,7 +30,7 @@ export default function HomePage() {
         <div className="relative z-10 text-center text-white px-4 sm:px-6 lg:px-8">
           <div className="bg-black/30 backdrop-blur-sm rounded-lg px-6 sm:px-8 py-6 mb-8 mx-4 sm:mx-8 max-w-5xl inline-block">
             <h1 className="text-5xl md:text-9xl font-playfair font-bold mb-6 text-gray-200">
-              ConTempo Studios
+              Dyer-Jones Entertainment
             </h1>
             <p className="text-xl md:text-2xl max-w-3xl font-bold mx-auto leading-relaxed text-gray-200">
               Interdisciplinary.&nbsp;&nbsp;&nbsp;Accessible.&nbsp;&nbsp;&nbsp;Live Performances.
@@ -69,7 +69,7 @@ export default function HomePage() {
                 Art Should Be For Everyone
               </h2>
               <p className="text-lg text-gray-600 leading-relaxed">
-                ConTempo Studios is an Interdisciplinary Arts Organization focused on providing accessible art and live performances to audiences across Houston. Sign up for our mailing list to keep up with upcoming events here!
+                Dyer-Jones Entertainment is an Interdisciplinary Arts Organization focused on providing accessible art and live performances to audiences across Houston. Sign up for our mailing list to keep up with upcoming events here!
               </p>
               <Link
                 href="/connect#newsletter"

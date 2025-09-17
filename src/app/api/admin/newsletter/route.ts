@@ -31,7 +31,7 @@ export async function GET(request: NextRequest) {
       <!DOCTYPE html>
       <html>
         <head>
-          <title>Newsletter Signups - ConTempo Studios</title>
+          <title>Newsletter Signups - Dyer-Jones Entertainment</title>
           <style>
             body { font-family: Arial, sans-serif; margin: 40px; }
             .header { border-bottom: 2px solid #333; padding-bottom: 20px; margin-bottom: 30px; }
@@ -45,7 +45,7 @@ export async function GET(request: NextRequest) {
         </head>
         <body>
           <div class="header">
-            <h1>Newsletter Signups - ConTempo Studios</h1>
+            <h1>Newsletter Signups - Dyer-Jones Entertainment</h1>
             <p>Total subscribers: <strong>${newsletterSignups.length}</strong></p>
             <a href="/api/admin/newsletter/export" class="export-btn">Export as CSV</a>
           </div>

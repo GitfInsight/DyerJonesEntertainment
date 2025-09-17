@@ -34,7 +34,7 @@ export async function GET(request: NextRequest) {
     // Generate filename with current date
     const now = new Date();
     const dateStr = now.toISOString().split('T')[0]; // YYYY-MM-DD format
-    const filename = `contempo-newsletter-signups-${dateStr}.csv`;
+    const filename = `Dyer-Jones Entertainment-newsletter-signups-${dateStr}.csv`;
     
     return new Response(csvContent, {
       headers: {

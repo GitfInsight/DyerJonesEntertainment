@@ -210,7 +210,7 @@ export default function MediaPage() {
             </button>
           </div>
           <p className="text-sm text-gray-500 mt-4">
-            All images © ConTempo Studios. Please credit when using.
+            All images © Dyer-Jones Entertainment. Please credit when using.
           </p>
         </div>
       </section>

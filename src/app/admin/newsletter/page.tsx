@@ -105,7 +105,7 @@ export default function NewsletterAdmin() {
               <h1 className="text-2xl font-playfair font-bold text-gray-900">
                 Newsletter Admin Dashboard
               </h1>
-              <p className="text-gray-600">ConTempo Studios</p>
+              <p className="text-gray-600">Dyer-Jones Entertainment</p>
             </div>
             <button
               onClick={handleLogout}

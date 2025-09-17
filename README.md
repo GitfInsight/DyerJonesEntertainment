@@ -1,14 +1,9 @@
-# ConTempo Studios Website
+# Dyer-Jones Entertainment Website
 
-A modern, accessible website for ConTempo Studios - an interdisciplinary arts organization focused on creating transformative live performance art in Houston.
+A modern, accessible website for Dyer-Jones Entertainment 
+## About Dyer-Jones Entertainment
 
-## About ConTempo Studios
-
-ConTempo Studios is an interdisciplinary arts organization dedicated to:
-- Creating accessible, boundary-breaking performance art
-- Fostering collaboration between artists of different disciplines  
-- Building community through live performance experiences
-- Making art available to all members of the Houston community
+Dyer-Jones Entertainment is a dynamic performance company specializing in high-energy dance and theatrical productions. With a commitment to excellence and creativity, Dyer-Jones Entertainment brings captivating performances to audiences worldwide.
 
 ## Features
 
@@ -139,4 +134,4 @@ Replace placeholder images throughout the site with actual performance photos an
 
 ## License
 
-This project is built for ConTempo Studios. All rights reserved.
+This project is built for Dyer-Jones Entertainment. All rights reserved.

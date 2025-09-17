@@ -17,7 +17,7 @@ export default function SupportPage() {
             Every donation, no matter the size, makes a direct impact on our ability to create accessible, innovative art for all.
           </p>
           <p className="text-sm text-gray-300">
-            ConTempo Studios is a 501(c)3 designated institution, so donations are tax deductible.
+            Dyer-Jones Entertainment is a 501(c)3 designated institution, so donations are tax deductible.
           </p>
         </div>
       </section>
@@ -207,7 +207,7 @@ export default function SupportPage() {
             <div className="bg-gray-50 rounded-lg p-8">
               <h3 className="text-xl font-semibold text-gray-900 mb-4">Spread the Word</h3>
               <p className="text-gray-600 mb-6">
-                Follow us on social media, share our posts, and tell your friends about ConTempo Studios. Word-of-mouth is invaluable for growing our community.
+                Follow us on social media, share our posts, and tell your friends about Dyer-Jones Entertainment. Word-of-mouth is invaluable for growing our community.
               </p>
               <div className="space-x-4">
                 <Link
@@ -219,7 +219,7 @@ export default function SupportPage() {
                   Instagram
                 </Link>
                 <Link
-                  href="https://www.youtube.com/@Contempo_Studios"
+                  href="https://www.youtube.com/@Dyer-Jones Entertainment_Studios"
                   className="bg-gray-900 text-white px-4 py-2 rounded-md font-semibold hover:bg-gray-800 transition-colors"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -242,7 +242,7 @@ export default function SupportPage() {
           <div className="space-y-8">
             <div className="bg-white rounded-lg p-8 shadow-md">
               <p className="text-lg text-gray-600 italic mb-4">
-                &quot;I absolutely loved the ConTempo yoga event! It was such a refreshing way to ease into a Saturday, and the combination of beautiful music with mindful movement offered a new perspective on the connection between art, the body, and the natural world. It left me feeling inspired to explore how music can be woven into everyday experiences in more intentional ways.&quot;
+                &quot;I absolutely loved the Dyer-Jones Entertainment yoga event! It was such a refreshing way to ease into a Saturday, and the combination of beautiful music with mindful movement offered a new perspective on the connection between art, the body, and the natural world. It left me feeling inspired to explore how music can be woven into everyday experiences in more intentional ways.&quot;
               </p>
               <div className="flex items-center">
                 {/* <div className="w-12 h-12 bg-gray-200 rounded-full mr-4">
@@ -257,7 +257,7 @@ export default function SupportPage() {
             
             <div className="bg-white rounded-lg p-8 shadow-md">
               <p className="text-lg text-gray-600 italic mb-4">
-                &quot;ConTempo is the future of performing arts. They create a space in which people from all backgrounds and all level of arts exposure feel safe to listen, respond, and become. The innovative and exciting use of multiple disciplines engages the audience in new and fresh ways, and yet it is all performed with a Classical elegance to impress the most discerning arts goer. Patrons at my venue have expressed delight and have been deeply moved - often within the same performance. ConTempo os wjat the first-time arts patron and the seasoned patron each need - performed seemingly effortlessly by the talented and joyful artists who are welcoming to all who come.&quot;
+                &quot;Dyer-Jones Entertainment is the future of performing arts. They create a space in which people from all backgrounds and all level of arts exposure feel safe to listen, respond, and become. The innovative and exciting use of multiple disciplines engages the audience in new and fresh ways, and yet it is all performed with a Classical elegance to impress the most discerning arts goer. Patrons at my venue have expressed delight and have been deeply moved - often within the same performance. Dyer-Jones Entertainment os wjat the first-time arts patron and the seasoned patron each need - performed seemingly effortlessly by the talented and joyful artists who are welcoming to all who come.&quot;
               </p>
               <div className="flex items-center">
                 {/* <div className="w-12 h-12 bg-gray-200 rounded-full mr-4">
@@ -273,7 +273,7 @@ export default function SupportPage() {
             
             {/* <div className="bg-white rounded-lg p-8 shadow-md">
               <p className="text-lg text-gray-600 italic mb-4">
-                &quot;I&apos;ve been supporting ConTempo Studios since their first performance. Watching them grow and continue to challenge artistic boundaries has been incredibly rewarding.&quot;
+                &quot;I&apos;ve been supporting Dyer-Jones Entertainment since their first performance. Watching them grow and continue to challenge artistic boundaries has been incredibly rewarding.&quot;
               </p>
               <div className="flex items-center">
                 <div className="w-12 h-12 bg-gray-200 rounded-full mr-4"></div>

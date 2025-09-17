@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Logo and Mission */}
           <div className="md:col-span-2">
-            <h3 className="text-2xl font-playfair font-bold mb-4">ConTempo Studios</h3>
+            <h3 className="text-2xl font-playfair font-bold mb-4">Dyer-Jones Entertainment</h3>
             <p className="text-gray-300 mb-4 max-w-md">
               An interdisciplinary arts organization focused on creating accessible and live performance art for audiences across Houston.
             </p>
@@ -55,7 +55,7 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-                <a href="https://www.instagram.com/contempostudios_htx/" className="text-gray-300 hover:text-white transition-colors">
+                <a href="https://www.instagram.com/Dyer-Jones Entertainmentstudios_htx/" className="text-gray-300 hover:text-white transition-colors">
                   Instagram
                 </a>
               </li>
@@ -71,7 +71,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="mt-8 pt-8 border-t border-gray-700 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm">
-            © {new Date().getFullYear()} ConTempo Studios. All rights reserved.
+            © {new Date().getFullYear()} Dyer-Jones Entertainment. All rights reserved.
           </p>
           <p className="text-gray-400 text-sm mt-4 md:mt-0">
             Houston, Texas
